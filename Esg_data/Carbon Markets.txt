@@ -1,0 +1,65 @@
+Transactional marketplaces where organizations and investors can buy and sell carbon credits and offsets
+
+Over 1.8 million professionals use CFI to learn accounting, financial analysis, modeling and more. Start with a free account to explore 20+ always-free courses and hundreds of finance templates and cheat sheets.
+
+Start Free
+Written by Kyle Peterdy
+Reviewed by Noah Miller
+What is a Carbon Market?
+A carbon market is a place where the management teams at organizations can buy and sell different instruments that relate to greenhouse gas emissions.
+
+The two types of instruments that are traded are carbon credits (often referred to as “allowances”) and carbon offsets.
+
+Additionally, there are two types of carbon markets — voluntary markets and compliance markets. Compliance markets may be called different things in different geographies, including “regulated markets” and “emissions trading schemes” (or ETS for short).
+
+
+Key Highlights
+A carbon market is a place where organizations can buy and sell carbon credits and carbon offsets.
+Carbon markets are either voluntary markets or compliance markets.
+Compliance markets exist in jurisdictions with Cap & Trade systems in place to reduce aggregate emissions.
+Carbon accounting (often called greenhouse gas accounting) is an important component of understanding carbon markets and their use cases.
+History and Context of Carbon Markets
+While the concept of voluntary carbon markets has existed for decades, they were more well-known among climate activists than they were leaders in politics and the finance community.
+
+The Kyoto Protocol in 1997 was the first time that international participation in carbon markets started to become more commonplace. But with the US and China being absent from that agreement, widespread adoption remained elusive.
+
+That slowly began to change in 2015 when 196 Parties at COP 21 entered into the Paris Agreement. The Paris Agreement[1] is an international treaty centered around managing climate change, the ultimate goal of which was to limit global emissions and, more importantly, to hold countries accountable for their actions (and inactions) around reducing their carbon footprints.
+
+Cap & Trade systems emerged as a mechanism to create accountability, and as a result, emissions trading schemes (ETS) became a key platform for trading carbon credits that were issued as part of the cap system. In these jurisdictions, participation in compliance carbon markets became mandatory. Having said that, participation in the voluntary markets remains voluntary.
+
+Carbon markets cannot exist without the concept of carbon accounting (often called greenhouse gas accounting). Carbon accounting is also a core tenant of ESG analysis (which stands for Environmental, Social, and Governance).
+
+Carbon Tax vs. Cap & Trade (and Carbon Markets)
+If a governing body wishes to reduce emissions, they generally have two levers to pull. The first is a carbon tax, and the second is a Cap & Trade system.
+
+Carbon tax
+This is where a fee (or surcharge) is levied at the time of fuel consumption or purchase. Many individuals might be familiar with a “gas tax,” which increases the cost of filling their tank.
+
+Thematically, it’s like a penalty for people (or organizations) that consume fossil fuels – and the more you consume, the higher the monetary cost. 
+
+Of course, the initiative also generates tax dollars which, at least theoretically, can be deployed to help reduce emissions in other ways (such as investments in green initiatives like renewable energy projects, etc.).
+
+Cap & Trade
+The other strategy is a Cap & Trade system, which exists in some geographies (the State of California[2] is one example), although they are not uniformly popular across all jurisdictions or all market participants.
+
+In a Cap & Trade system, the governing or oversight body (in this case, the California Air Resources Board) determines, using science-based targets, what an acceptable “aggregate” emission amount looks like in CO2e (carbon dioxide equivalent). They then create carbon credits and assign those credits to each organization within their network.
+
+The credits received by each organization represent the maximum amount of emissions that is permitted by law. If the organization emits less, they can become a seller of credits on the corresponding “compliance carbon market;” if they emit more than their limit, they become a buyer on that market.
+
+Compliance vs. Voluntary Markets
+The ETS, overseen by the California Air Resources Board, is an example of a compliance market. Because these are highly regulated and carbon credits are both created by (and overseen by) the same organization, there is considerable standardization. 
+
+In a Cap & Trade system, a corresponding compliance market exists where the quality and the credibility of carbon credits are consistent and high.
+
+Unlike compliance markets, voluntary markets are subject to considerably less regulation and oversight. Voluntary markets exist not to trade carbon credits but so that participants can create and trade carbon offsets, which are quite different.
+
+Offsets vs. Credits
+Carbon offsets are created when an individual or an organization decides they want to take on a carbon reduction or sequestration “project.”
+
+The project could be nature-based (like a reforestation initiative), which leverages the carbon sequestration processes of the natural world — such as trees, plants, wetlands, etc.
+
+Alternatively, a project could also be what’s called “mechanical” — like investment in a technology or project that reduces or captures carbon (like renewable energy production or direct carbon capture and storage).
+
+Think of carbon credits as a measure representing “permissible emissions” and offsets as compensation for “removed emissions.”
+
+Carbon credits are traded on compliance markets; carbon offsets trade on voluntary markets. 

@@ -1,0 +1,76 @@
+Investment vehicles constructed using an asset allocation strategy that focuses on environmental, social, and governance factors
+
+Over 1.8 million professionals use CFI to learn accounting, financial analysis, modeling and more. Start with a free account to explore 20+ always-free courses and hundreds of finance templates and cheat sheets.
+
+Start Free
+Written by Noah Miller
+Reviewed by Kyle Peterdy
+What is an ESG Fund?
+An ESG Fund is a broad term used to describe any investment vehicle for which the fund manager(s) used environmental, social, and governance (ESG) criteria to inform its composition and asset allocation strategy.
+
+
+ESG fund managers use a variety of investment strategies – including negative screening, thematic investing, or ESG integration – which can make understanding their composition very challenging.
+
+The three most common types of ESG funds are ESG mutual funds, ESG ETFs, and ESG index funds. 
+
+Key Highlights
+An ESG fund is a fund that incorporates environmental, social, and governance issues into the investment process.
+There are a variety of ESG fund types, and fund managers employ a number of different ESG-centric investment strategies.
+Like a public issuer itself, ESG funds are also exposed to greenwashing risks.
+ESG Fund Construction
+ESG fund managers may use a variety of methods – from third-party ESG scores (provided by raters like ISS, CDP, or MSCI (among others), to in-house proprietary criteria – in order to construct their portfolios.
+
+While this is not an exhaustive list, some examples of ESG investing techniques are as follows:
+
+Negative Screening
+Negative screening is sometimes referred to as exclusion. This technique involves identifying undesirable characteristics (that don’t meet certain sustainability criteria or expectations) and then running a stock screener (like Refinitiv or Capital IQ) to exclude investments that don’t qualify.
+
+Examples include:
+
+Screens that eliminate an entire SIC or NAICS code (like businesses in the oil and gas industry)
+Screens that exclude external ESG scores that are below X (as rated by external rating agencies like Moody’s or Sustainalytics, etc.)
+Positive Screening
+Positive screening, sometimes called inclusion, is the opposite of negative screening. Analysts and fund managers at asset management firms can instead run screens to search out top performers (often scored by the same external rating agencies), measured against important ESG criteria.
+
+The screening tool may be searching out top scores overall; alternatively, they can be seeking out top performers in the “S” (social) pillar or in some subset of it (like DE&I or corporate culture metrics). Capital Markets platforms are designed to allow analysts to drill down in considerable detail when screening for securities.
+
+Thematic Investing
+Thematic investing is where an ESG fund manager identifies longer-term macroeconomic trends that they feel have tailwinds and that should collectively contribute to better E, S, or G outcomes.
+
+Blackrock is widely credited with making the concept of thematic ESG investing more mainstream. Thematic ESG funds may still use screening tools, but many also employ proprietary models and criteria to achieve their investment objectives.
+
+ESG Fund
+
+Understanding ESG Funds
+In 2022, global financial regulators (most prominently in the US and EU) created and implemented more stringent disclosure requirements around portfolio construction. It was an effort to reduce false representations or otherwise misleading ESG claims made by fund managers. The act of misrepresenting ESG claims is known as greenwashing.
+
+Disclosure around fund performance is also required; this is to protect retail investors. In that sense, ESG funds aren’t all that different from traditional funds.
+
+ESG Mutual Funds
+ESG mutual funds are professionally managed funds that contain stocks and bonds with predetermined ESG criteria. They offer investors the benefits of diversification, liquidity, and professional management. 
+
+Just like companies being traded on a stock exchange, mutual funds are required by law to disclose their performance and associated fund activities publicly.
+
+ESG ETFs
+ESG Exchange Traded Funds (ETFs) are similar to mutual funds in the sense they contain a variety of ESG-centric stocks, bonds, and other financial instruments. However, unlike a mutual fund (which is bought and sold from the issuer), ETFs are traded freely on stock exchanges.
+
+In general, ETFs tend to have lower fees, including MERs (management expense ratios), than mutual funds.
+
+ESG Index Funds
+An ESG Index fund is a type of ESG mutual fund. While ESG mutual funds are actively managed by a portfolio manager, an ESG index fund passively tracks the ESG-centric companies that trade on an index, such as the S&P 500.  
+
+Examples of ESG index funds include Vanguard’s FTSE Social Index Fund (VFTAX) and Fidelity U.S. Sustainability Index Fund (FITLX).
+
+ 
+
+ESG & the Analyst Community
+Whether constructing an ESG fund itself or assessing its performance for inclusion in a client’s investment portfolio, a financial analyst must be able to articulate the following clearly:
+
+What is the fund’s investment strategy?
+What are the ESG issues being included in the process, and how are they being measured?
+How are the ESG criteria reducing risk and/or creating value at the fund level?
+When finance professionals don’t understand the investment thesis or criteria, they risk perpetuating the ongoing issue of greenwashing. 
+
+ESG disclosure requirements and regulations are expected to become more stringent, not less. It is likely to increase the level of rigor that goes into investor due diligence around ESG-labeled funds and their construction.
+
+This article was prepared in collaboration with Rho Impact.

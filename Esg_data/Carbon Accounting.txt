@@ -1,0 +1,95 @@
+Carbon accounting is a technique used to create an inventory for, and calculation of, an organization’s scope 1, 2, and 3 greenhouse gas emissions
+
+Written by Kyle Peterdy
+Reviewed by Noah Miller
+Summary
+Carbon accounting, often synonymous with greenhouse gas (GHG) accounting, is a vital technique utilized by analysts and management teams to quantify an organization’s carbon emissions.
+
+Distinguishing between direct and indirect emissions, it involves assessing various activities such as energy consumption, transportation, and manufacturing processes.
+
+With regulatory bodies mandating emissions disclosure, accurate carbon accounting is crucial for compliance and transparency.
+
+Additionally, it facilitates comparison with historical data and industry benchmarks, offering insights into an organization’s environmental performance.
+
+As ESG considerations increasingly influence investment decisions, understanding and reducing carbon emissions become paramount for accessing capital and ensuring long-term sustainability in a transitioning economy.
+
+What is Carbon Accounting?
+Carbon accounting, often used interchangeably with greenhouse gas (GHG) accounting, is a technique used by analysts and management teams to understand the extent of an organization’s carbon emissions – both direct and indirect.
+
+Although the two terms are similar and often used interchangeably, there is a subtle but key difference. Carbon accounting refers only to carbon dioxide emissions, while GHG accounting refers to all greenhouse gases.
+
+ESG (Environmental, Social & Governance) is becoming a more mainstream business concept. As such, more organizations and funds are increasingly using an ESG framework to manage risks and opportunities, so regulators in many jurisdictions are requiring that organizations (especially publicly traded companies) disclose their GHG emissions.
+
+Emissions are broken out into scopes 1, 2, and 3. Once an aggregate emission figure is calculated, it’s referred to as the organization’s GHG emissions footprint.
+
+
+Key Highlights
+Carbon accounting is a specific type of greenhouse gas (GHG) accounting.
+Carbon accounting is a technique used to understand an organization’s carbon emissions.
+There are three “scopes” (like levels) of emissions: Scope 1, 2, and 3.
+Accurate carbon and GHG accounting is important due to emerging regulations and a shift in the availability of capital (towards more sustainable companies).
+What are Greenhouse Gases?
+GHGs are gasses that trap heat in the earth’s atmosphere; this creates (and exacerbates) a warming effect on the planet’s surface that’s broadly known as global warming.
+
+Excess GHGs are generally considered the result of human activities like burning fossil fuels, electricity consumption, heat generation, agriculture and livestock operations, and more.
+
+There are a number of greenhouse gasses, including carbon dioxide, methane, nitrous oxide, and hydrofluorocarbons (HFCs), among others. While emissions may be the result of any of these gasses, the standard unit for measuring emissions is CO2e (carbon dioxide equivalent); meaning that other GHGs are converted into CO2e for the purpose of carbon accounting. It’s important to recognize that CO2e is only used to simplify the accounting process, as GHGs all have different degrees of warming impact.
+
+CO2e is an important unit of measurement because it’s universally accepted as the standard for quantifying GHGs. It’s also employed across a variety of carbon market functions, including how carbon credits and carbon offsets are structured (tonnes of CO2e).
+
+Scope 1, 2 & 3 Emissions
+Scopes can be thought of as “levels” of emissions, with some occurring under the company’s direct control and others occurring within the supply chain or elsewhere outside of management’s direct control.
+
+Scope 1 encompasses direct emissions from owned (or controlled) sources like company vehicles and manufacturing facilities, etc.
+Scope 2 includes indirect emissions from the generation of purchased electricity, steam, heating, and cooling.
+Scope 3 is a very broad category that includes all “other” indirect emissions like business travel, investments, end-of-life treatment of sold products, and purchased goods and services (among others).
+Carbon Accounting - Scopes of Emissions
+
+Process for Preparing a GHG Inventory
+Broadly speaking, there are several important steps for an organization that is looking to leverage carbon accounting to prepare a GHG inventory. These are:
+
+Understand the scopes and *organizational boundaries for calculating GHG emissions.
+Collect activity metrics, such as the amount of energy used per year and the amount of fuel per year, from a variety of internal sources.
+Convert the activity metrics into carbon emissions by using a third-party carbon equivalent calculator like that provided by the U.S. EPA[1]. This offers “carbon factors,” or in other words, the amount of carbon estimated to result from each activity metric.
+Determine which framework to use, calculate the scopes 1, 2, and 3 emissions, then sum them to arrive at the final carbon footprint.
+Report emissions and disclose goals/targets for future improvement.
+*Organizational boundaries are relevant when multiple corporate entities exist, whether they report on a combined or consolidated basis or not. Different entities may be included within the organizational boundaries (or not) depending on the level of common ownership or common control. 
+
+Common Carbon Accounting Frameworks
+There are a number of frameworks used by corporations; some are industry-specific, while others are more general in nature. 
+
+Four of the most common frameworks used by corporations are:
+
+The Greenhouse Gas (GHG) Protocol[1]
+The EPA’s: GHG Inventory Guidance[2]
+ISO’s: ISO Standard 14064[3]
+The Climate Registry’s: General Reporting Protocol (GRP)[4]
+Why is Carbon Accounting Important?
+While ESG (as an analysis framework) has evolved into something of a partisan issue in some jurisdictions, there are several key reasons why analysts should nevertheless understand carbon accounting, regardless of their political stripes or their stance on ESG more broadly:
+
+Evolutions in the regulatory environment
+Many regulatory bodies, including (notably) the United States Securities and Exchange Commission (SEC), are mandating that management teams publicly disclose corporate emissions, climate risk impacts, and other material ESG issues.
+
+Analysts and management teams at public issuers must know how to account for carbon emissions in order to remain compliant with these emerging regulations and avoid accusations of greenwashing. As a result, the financial services community (institutional asset managers, commercial banks, etc.) must also be able to make sense of these disclosures.
+
+Comparison & benchmarking
+Merely tracking emissions is nice, but it doesn’t help stakeholders derive meaningful insights.
+
+On the other hand, comparing current emissions to historical emissions clearly illustrates improvements (or declines); and comparing one firm to another allows stakeholders to understand an organization’s relative performance. This is a big part of a rating agency’s due diligence process when assigning ESG scores.
+
+Further, to the extent that you believe ESG factors (including corporate GHG emissions) may impact company valuations and general risk profiles, then benchmarking performance may be an important part of many analysts’ due diligence.
+
+Access to capital
+Many large asset managers and global banks have publicly declared that ESG factors are a growing part of their investment and capital allocation decisions.
+
+If a management team wants to ensure they’ll have access to funding through the capital markets (and at a reasonable cost), it’s imperative that they understand and adhere to regulatory requirements, and therefore demonstrate progress towards reducing emissions and helping to achieve a “net zero” economy.
+
+Frequently Asked Questions
+1. Why is carbon accounting difficult?
+Carbon accounting can be challenging due to the complexity of tracking and quantifying emissions across various sources and activities within an organization. Additionally, factors such as evolving regulations, diverse emission scopes, and data collection inconsistencies contribute to its difficulty.
+
+2. What is the difference between GHG accounting and carbon accounting?
+The primary distinction between GHG accounting and carbon accounting lies in their scope. While GHG accounting encompasses all greenhouse gases, carbon accounting specifically focuses on carbon dioxide emissions. This differentiation allows for a more precise assessment of an organization’s carbon footprint.
+
+3. What is the carbon accounting strategy?
+The carbon accounting strategy involves systematically collecting, calculating, and reporting an organization’s carbon emissions. It typically includes defining emission scopes, establishing data collection procedures, selecting appropriate emission factors, and setting emission reduction targets aligned with environmental goals and regulatory requirements.

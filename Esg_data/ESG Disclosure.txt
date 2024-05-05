@@ -1,0 +1,60 @@
+A specific type of public reporting about an organization’s performance around Environmental, Social, and Governance (ESG) issues or criteria
+
+Over 1.8 million professionals use CFI to learn accounting, financial analysis, modeling and more. Start with a free account to explore 20+ always-free courses and hundreds of finance templates and cheat sheets.
+
+Start Free
+Written by Kyle Peterdy
+What is ESG Disclosure?
+ESG disclosure is a form of public reporting by an organization’s management team about its performance across a variety of Environmental, Social, and Governance (ESG) issues.
+
+Collective global efforts toward greater sustainability have created the need for organizations of all sizes to be more transparent about what they’re doing to manage environmental, social, and governance risks. As a result, stock exchanges, regulatory bodies, and other government agencies have mandated ESG-related reporting; this reporting is widely known as ESG disclosure.
+
+ESG disclosure helps stakeholders (like investors, creditors, employees, prospective customers, etc.) understand how a company is managing ESG risks and opportunities. Ineffective or misleading ESG disclosures may be considered greenwashing.
+
+
+Key Takeaways
+ESG disclosure is a specific type of public reporting about an organization’s performance around Environmental, Social, and Governance (ESG) issues or criteria.
+In order to ensure consistency and comparability, ESG disclosure should be prepared and presented using guidelines and formats set forth in one of the major ESG reporting frameworks.
+ESG disclosures are consumed by a wide range of stakeholders, including the investment community, customers, employees, regulators, and supply chain partners.
+Why is ESG Disclosure Important?
+ESG disclosure is imperative for the analyst community since it would be impossible to measure success or to hold management teams accountable for lack of progress on these key issues without measurable, comparable data.
+
+While this is not an exhaustive list, some key reasons why ESG disclosure is so important include:
+
+1. Transparency and Information Symmetry
+Effective ESG disclosure helps external stakeholders (like asset managers, authorities, or potential customers) better understand risks around operations, emissions, or supply chain issues that company management may have previously kept private.
+
+Firms are already required to be transparent and to report financial results using a standardized framework (like US GAAP or IFRS), so it’s reasonable to expect that management teams also disclose sustainability information (to the extent that stakeholders can agree upon a standardized reporting framework).
+
+2. Supporting Progress Towards a Sustainable Economy
+ESG disclosure should clearly present a company’s action (or inaction) towards adapting to a net-zero economy. Disclosure also forces accountability for management teams that are either not progressing on ESG issues or that are generating negative impacts through business operations.
+
+3. Creating Consumer Trust and Brand Loyalty
+ESG disclosure that supports or substantiates claims of ethical practices and/or sustainable operations is critical in creating and maintaining brand loyalty. This is true of current (and potential) customers, employees, or supply chain partners.
+
+How Does ESG Disclosure Work?
+Organizations that choose (or are required) to provide public ESG disclosure must present this information in a way that is consumable by a variety of stakeholders (investors, rating agencies, customers, etc.). In order to accomplish this, management teams will determine who the core audience is, then select a reporting framework that best aligns with their needs.
+
+A variety of frameworks exist, including the Global Reporting Initiative (GRI), the Principles for Responsible Investment (PRI), and the Sustainability Accounting Standards Board (SASB), among others. Frameworks help ensure that data is consistent, standardized, and comparable across organizations and across industries.
+
+For instance, a small technology company may wish to disclose its total carbon emissions. This is a step in the right direction, but it doesn’t help stakeholders compare them to a very large oil & gas company. The former is a low emitter and the latter is a high emitter; the size of the companies also distorts comparability. Using a standardized framework will help ensure that both companies present their different emissions in relative terms (i.e., per dollar of revenue, per employee, etc.).
+
+ESG Disclosure
+
+What is a Company’s ESG Disclosure Used for?
+At present, the primary consumers of ESG disclosure data are the investment and finance communities; typically by way of rating platforms (like ISS, CDP, Sustainalytics, etc.). These rating platforms generate ESG scores, which help other users of the data benchmark performance and compare one company to another.
+
+A more ESG-savvy generation of prospective customers, employees, and supply chain partners will also use ESG disclosure data (again typically by way of ratings and ESG scores) in order to make decisions about what types of organizations they wish to conduct business with or work for.
+
+And finally, regulators and other government agencies will consume ESG disclosure data in order to offer funding (by way of grants and tax incentives) or to levy penalties (like fines or even jail time) accordingly.
+
+Attributes of High Quality ESG Disclosure
+High quality ESG disclosure includes the following elements:
+
+Risks. Management teams must clearly identify threats of potential events that could impact the firm’s competitive advantage, reputation, compliance environment, operations, or financial health.
+Opportunities. These are potential areas where a firm may be able to innovate to introduce new products or penetrate new markets. Opportunities may also include areas to reduce emissions or to improve other S&G metrics.
+Strategies. Exactly how will management mitigate these risks and/or seize on these opportunities? For example, what is the budget, the timeline, and the potential range of outcomes? Will a new team be formed to lead these initiatives, and so on?
+Performance. This is the clear presentation of efforts and progress toward the firm’s sustainability goals. This section should be heavy on metrics, and metrics should be both:
+Improving period-over-period; and
+Improving relative to the firm’s peer group.
+As a general rule, high levels of standardization and accuracy are also hallmarks of high quality ESG disclosure.

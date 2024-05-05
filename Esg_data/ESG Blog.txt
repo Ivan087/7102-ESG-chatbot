@@ -1,0 +1,58 @@
+ESG Blog
+
+16 foundational principles for ESG reporting
+For more than a decade, corporations have been under pressure to adopt ESG (Environmental, Social, Governance) initiatives as evidence mounts that these factors can be financially material to business performance. Today, employees, consumers, business partners, and investors alike are all demanding stronger ESG reporting and disclosures.
+
+In fact, the Governance & Accountability Institute reported that 86% of the companies in the S&P 500 published sustainability or corporate responsibility reports in 2018, indicating that companies and stock exchanges are responding to the rising demand for reporting and transparency.
+
+ESG reporting is essential for building a robust portfolio that attracts investment. Organizations can use ESG reporting to better understand and manage their impact on people and the environment, as well as identify and mitigate risks, seize new opportunities, and take actions that build brand value and trust.
+
+Whether just beginning the ESG reporting journey or reassessing the accuracy and efficacy of current reporting processes, companies and firms can construct a solid foundation for credible reporting by starting with some key core principles.
+
+An overview of ESG reporting elements
+Environmental sustainability, social responsibility, and corporate governance underpin ESG reporting outcomes. While ESG reports often include key performance indicators (KPIs) and metrics, they are not the same as accounting driven KPIs, which are mainly concerned with financial performance.
+
+Environmental metrics typically address climate concerns, including reductions in electricity usage, changes in fuel consumption for company vehicles, GHG emissions reductions, gallons of water saved, and increased waste diversion. Social metrics focus on employees and occupants, health & wellbeing, diversity & inclusion, and supply chain management. Governance metrics are often determined by the existence of policies on a wide range of issues such as company values and business resilience plans.
+
+However, there is currently no standard for ESG reporting, and the majority of reporting is based on voluntary reporting criteria. This makes it tough for businesses to get started. While many businesses start by deciding which framework to employ and which KPIs to evaluate, the best place to begin is by asking "What do we want to achieve?" and "What are our company's ESG and sustainability goals?"
+
+Setting goals based on foundational principles can help determine which framework to use and what metrics to assess.
+
+Core principles for ESG reporting
+The United Nations (UN) has advocated for corporate sustainability and sustainable investments for decades. To help companies embed a principles-based approach to doing business, the UN provided Ten Principles of the UN Global Compact to help companies uphold their basic responsibilities to people and planet, while supporting long-term success. The 10 principles are grouped as follows:
+
+Human Rights
+
+Principle 1: Businesses should support and respect the protection of internationally proclaimed human rights
+Principle 2: Make sure that they are not complicit in human rights abuses
+Labor
+
+Principle 3: Businesses should uphold the freedom of association and the effective recognition of the right to collective bargaining
+Principle 4: The elimination of all forms of forced and compulsory labor
+Principle 5: The effective abolition of child labor
+Principle 6: The elimination of discrimination in respect of employment and occupation
+Environment
+
+Principle 7: Businesses should support a precautionary approach to environmental challenges
+Principle 8: Undertake initiatives to promote greater environmental responsibility
+Principle 9: Encourage the development and diffusion of environmentally friendly technologies
+Anti-Corruption
+
+Principle 10: Businesses should work against corruption in all its forms, including extortion and bribery
+The UN also developed the Principles for Responsible Investment (PRI), an international organization that promotes the incorporation of ESG factors into investment decision-making. PRI offers six principles meant to guide the actions of institutional investors seeking to incorporate ESG factors into investment practices and performance.
+
+Principle 1: We will incorporate ESG issues into investment analysis and decision-making processes
+Principle 2: We will be active owners and incorporate ESG issues into our ownership policies and practices
+Principle 3: We will seek appropriate disclosure on ESG issues by the entities in which we invest
+Principle 4: We will promote acceptance and implementation of the principles within the investment industry
+Principle 5: We will work together to enhance our effectiveness in implementing the principles
+Principle 6: We will each report on our activities and progress towards implementing the principles
+Together, the PRI and the UN Global Compact’s 10 Principles provide a core framework that can direct ESG goals, metrics, and reporting outcomes. Guided by these principles, companies can create a sustainable culture and a compelling value proposition centered around corporate sustainability and upstanding stewardship.
+
+ESG materiality assessments
+With investors inquiring more and more frequently about what your company is doing in regard to responsible investment, how you treat employees and vendors, your dedication to sustainability initiatives, and other activities that fall under the ESG umbrella, it’s important to have answers to these questions.
+
+An ESG materiality assessment empowers you to easily report on your current state and outline future initiatives while taking into consideration your business goals and risks. Download our guide to creating and extracting the maximum strategic value from an ESG materiality assessment.
+
+
+

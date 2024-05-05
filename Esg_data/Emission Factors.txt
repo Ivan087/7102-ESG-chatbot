@@ -1,0 +1,56 @@
+Multipliers used in GHG accounting when calculating the carbon emissions profile of a given activity or process
+
+What are Emission Factors?
+An emission factor is a multiplier used to standardize emissions data from different types of organizational activities, processes, or products.
+
+
+For example, a management team might collect receipts for the year and know how many gallons of diesel were used in company vehicles, how many kilowatt hours of electricity were purchased to power company facilities, how many pounds of paper were used in operations, etc. But these numbers tell us nothing about the greenhouse gas emissions associated with any of those activities.
+
+A greenhouse gas (GHG) inventory must be expressed using a common unit of measurement. In carbon accounting, that unit is tonnes of carbon dioxide equivalent (CO2e), so our example management team would use an emission factor that’s unique to diesel fuel, one that’s unique to electricity consumption, and another that’s unique to paper in order to arrive at the total amount of CO2e that was emitted by way of these organizational activities.
+
+Emission factors have been validated for scientific accuracy and undergo rigorous study before being included in commonly used emission factor databases – such as the EPA’s Emissions Factors Hub[1].
+
+Key Highlights
+Emission factors are used to generate a standardized unit of measurement to help understand an organization’s total emissions.
+Emission factors are an integral part of GHG accounting and in measuring progress toward climate commitments.
+Emission factors undergo rigorous scientific evaluation before being included in various public databases.
+Why are Emission Factors Important?
+Emission factors are a critical part of any GHG (or carbon) accounting exercise. Without emission factors, it would be impossible to calculate the emissions associated with the diverse and unique activities that an organization engages in (or products that the company produces, etc.).
+
+Some key elements include:
+
+“Apples-to-apples” performance benchmarking
+Measuring performance in a vacuum doesn’t permit actionable insights; however, with a standardized unit of measurement like CO2e, management teams can assess performance over time and benchmark against their peer group(s).
+
+Approachability
+For ESG outsiders, the notion of carbon accounting can seem both abstract and very daunting. Emission factors permit a really quick and easy way to translate information from disparate data sources into one common language, from which a common understanding can emerge.
+
+Transparency and consistency
+Emission factors provide the kind of transparency that’s necessary to support third parties that wish to verify, audit, or otherwise authenticate company emissions data. Impact claims are considerably more credible when applying a consistent framework, which includes the use of standardized emission factors; this helps avoid accusations of greenwashing. 
+
+
+
+What Does an Organization Use Emission Factors for?
+Management teams employ emission factors to arrive at many key metrics and calculations that may be used in a variety of ways, including ESG disclosure to stakeholders as well as engagement with carbon markets.
+
+Some important metrics include:
+
+Absolute emissions
+This refers to an organization’s total emissions, either GHG emissions (broadly) or carbon emissions (specifically); although both are expressed in tonnes of CO2e.
+
+Most climate commitments (like net zero and carbon neutrality) include a target reduction in an organization’s absolute emissions.
+
+Emissions intensity
+Is a relative metric; think of it as total emissions relative to something. It could be relative to total revenue, relative to the number of units produced, etc. Relative emission figures help the analyst community benchmark more effectively when comparing companies that are different sizes or that are perhaps growing at a different rate.
+
+For example, an organization’s absolute emissions could be going up, but it may not be “bad.” Consider that its total emissions relative to sales may actually be going down because of significant improvements in efficiency (even though the company is growing its top line rapidly). 
+
+Neither absolute emissions nor emission intensity tells the whole story in isolation.
+
+Emissions footprint
+An emissions footprint refers to total scope 1, 2, and 3 emissions based on the organizational and operational boundaries that have been declared. Organizational and operational boundaries can be different, depending upon how ownership differs from control.
+
+Emissions handprint
+An organization’s handprint is a newer concept; it represents the emissions associated with the investment (or other capital allocation) decisions made by management. 
+
+The topic is gaining popularity with financial services firms, but it can also be meaningful for corporate development teams considering M&A opportunities. Depending on the context, “handprints” may include investments in and the development of physical assets (like property, plant, and equipment).

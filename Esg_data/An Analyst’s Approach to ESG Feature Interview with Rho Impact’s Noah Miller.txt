@@ -1,0 +1,61 @@
+Over 1.8 million professionals use CFI to learn accounting, financial analysis, modeling and more. Start with a free account to explore 20+ always-free courses and hundreds of finance templates and cheat sheets.
+
+Start Free
+Written by Scott Powell
+Noah Miller
+
+Noah Miller (pictured right), Founder, Chief Strategist, and Head of ESG Advisory Services at Rho Impact, is a former ESG consulting practice leader, in-house ESG director, social entrepreneur, and non-profit advisor. He is passionate about leveraging the power of business to address real-world challenges and improve the welfare of all people. Noah’s eclectic professional background, academic credentials, and life experiences make him a highly sought-after consultant and speaker in the ESG space. We recently had the pleasure of sitting down with Noah to learn more about ESG and the role of the financial analyst in today’s market.
+
+Q: First of all, for the total beginners in our audience: Can you help us understand what ESG is (in your words)?
+
+ESG is an acronym that stands for Environmental, Social, and Governance. It is a management and analysis framework for addressing the risks and opportunities associated with changing environmental, social, and economic systems. It provides a lens for identifying and addressing how changing climate, stakeholder expectations, and business conditions on the ground impact a business and the stakeholders it depends on.
+
+A sample of environmental issues includes climate change and emissions, natural resource stewardship, and waste management. Social issues may include human capital management; customer welfare; community engagement; and diversity, equity, and inclusion (DEI). And lastly, governance issues include board composition, executive compensation, enterprise risk management, and bribery and corruption.
+
+Q: Management is often expected to report on ESG issues in a way that helps the analyst community and other stakeholders make sense of the data. Before we get into the analyst side, help us understand what this reporting looks like from a management perspective.
+
+So whether we’re talking about a company’s annual ESG report or specific disclosures like those we see from the Task Force on Climate-Related Financial Disclosures (TCFD) or the Sustainable Accounting Standards Board (SASB), the issuer’s inherent challenge is to connect the dots between the narrative and the numbers. The narrative represents what the company has done, is doing, and plans to do in the future. The numbers speak to the outcomes of those actions — it’s the ESG performance data.
+
+Corporate ESG performance is the ultimate team sport — and I’d say ESG reporting is as well. Every corporate department has information and data that must be synthesized for insights and contextualized for the reader. Any technical error in the data, or misused phrase or claim, can result in greenwashing accusations and potential litigation. This concern has raised the stakes tremendously around the focus and sophistication required from issuers and management teams in ESG reporting.
+
+Q: Flipping over to the analyst perspective now: What are some of the major issues that ESG analysts need to understand? Maybe you can break it down into one key issue in each of the ESG focus areas.
+
+Remember, as an analyst assessing ESG performance, the underlying objective is to understand how the company is managing their identified material issues and the associated risks and opportunities they present (both to their business and its stakeholders).
+
+Let’s first start with the letter that tends to get the least amount of attention in today’s ESG commentary — the G. We think about governance as the policies, protocols, practices, and systems used to manage and lead a company. As an analyst, you should try to understand whether a company has strong governance — do they have the policies, protocols, practices, and systems in place to improve ESG performance? Assess the presence of indicators like ESG policies, long-term goals, and KPIs, as well as clear descriptions of risks and opportunities with strategies to address them.
+
+Now for the S — social. Human capital management is the overarching term for how a company engages, retains, and improves both the welfare and effectiveness of its people. This term became top-of-mind for social after the 2021 US SEC disclosure regulations went into effect, requiring public companies to report on their human capital management practices and performance. Issues like diversity, equity, and inclusion (DEI); employee engagement; and labor management are all subtopics of human capital management, and it’s the role of the analyst to assess the effectiveness of those practices as well as the performance outcomes.
+
+Lastly, let’s dive into environment — the E in ESG. The underlying objective of an analyst in this area is to determine how a company is reducing its contributions to (and risk exposure from) climate change. This includes concepts like emission reduction performance, natural resource stewardship of water, waste, and land, etc. From a regulatory perspective, a company’s climate risk management is critical, given the global climate disclosure regulations now in effect in major economies around the world, including the EU, UK, and US. An analyst needs to be able to assess how a company is managing its physical and transition risks, as well as its liability risks — an emerging concern that’s earned its own designation.
+
+Q: Let’s unpack climate risk a bit. You mentioned three types — physical risks, transition risks, and liability risks. Can you explain the differences and provide some examples that analysts should be aware of?
+
+Absolutely. Physical risks refer to the physical impacts of climate change, such as storms, floods, droughts, wildfires, rising sea levels, etc. This risk type refers to how these phenomena create risks to a company’s assets, operations, and stakeholders (like employees and customers).
+
+Transition risks are a bit of an amorphous concept, but the term refers to any risks associated with the global transition to a net-zero economy. Transition risks include the regulatory, stakeholder, technological, energy, and workforce-related risks that could impact a company during this global transition. Examples could include the risks a company faces when climate disclosure regulations go into effect, or rising consumer expectations around corporate climate performance, or potential job loss for oil and gas workers if investment in those industries continues to decelerate (or disappear). Transition risks are broad in nature and require even more company context to truly understand the breadth of their implications.
+
+Liability risks make up an emerging risk category that has gained some recent attention. One could argue this is another transition risk, but the implications are so profound (especially for the financial services sector) that I personally think it deserves its own designation. Liability risks broadly refer to scenarios that require accounting for literal and figurative “sunk assets” and their associated costs. They directly impact the underwriting strategies and processes of insurers as well as lenders (who are counting on these physical assets as collateral security against credit exposure). Since liability risks will only increase alongside physical and transition risks, they certainly should be top-of-mind for the financial analyst community.
+
+Q: Let’s get a little deeper into the climate discussion. What exactly is a net-zero commitment? Is it the same as a commitment to being “climate neutral”?
+
+Net zero and climate neutral often get used interchangeably, but they’re quite distinct concepts.
+
+A net-zero commitment, by its simplest definition, is a company’s pledge to remove the same amount of greenhouse gasses (GHG) from the atmosphere that they put in. Climate neutral, on the other hand, means reducing all GHG emissions to zero. Unlike net zero, in which scope 1, 2, and 3 emissions are all included, climate neutral typically refers only to scopes 1 and 2. So a climate-neutral company produces zero emissions that are 100% derived from direct company operations (that they own and can influence).
+
+Net-positive commitments are also becoming more common from larger brands. This type of commitment means that the company pledges to replenish more of a particular natural resource than they use or deplete. For example, PepsiCo has created a Net Water Positive goal for 2030. This means they commit to replenishing more water than the company uses.
+
+Q: What is greenwashing? We hear this term quite a lot — does it relate exclusively to climate and environmental issues?
+
+Greenwashing, broadly speaking, refers to any misrepresentation within an organization’s ESG claims and performance, whether intentional or not. In today’s world, greenwashing is increasingly equated with fraud, as investor litigation and class-action lawsuits become standard responses to misrepresented practices, programs, and performance measures.
+
+Terms like “woke-washing” and “purpose-washing” have also emerged in response to tokenistic or misrepresented efforts around social issues. These accusations became increasingly prevalent after the tragic death of George Floyd and the global reckoning with systemic racism. Skeptics now use the term “woke-washing” to refer to any half-baked response around corporate DEI performance.
+
+As an analyst, you need to remember this: many investment dollars are being channeled to funds with strong ESG performance, and if that performance is in fact all smoke and mirrors, that counts as fraud in today’s business landscape.
+
+Q: Of the three ESG pillars, which (in your opinion) is the most important, and why?
+
+Is that a trick question?! I’d say context is king when it comes to ESG. A company’s industry, business model, stakeholders, and unique qualities will all influence which pillar is most critical for its management team.
+
+That being said, if I had to choose a single pillar as the most important, it would be governance. No company has ever slashed its carbon emissions, improved the welfare of its stakeholders, or adapted its business model for a net-zero economy without methodical and intentional governance and leadership.
+
+The quality of a company’s governance directly impacts its ability to set and achieve goals. Strong corporate governance is an inherent prerequisite for operationalizing a solid ESG strategy and achieving those objectives.

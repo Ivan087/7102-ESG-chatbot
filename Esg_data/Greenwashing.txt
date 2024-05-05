@@ -1,0 +1,60 @@
+Making false, misleading, unsubstantiated, or otherwise incomplete claims about the sustainability of a product, service, or business operation
+
+Over 1.8 million professionals use CFI to learn accounting, financial analysis, modeling and more. Start with a free account to explore 20+ always-free courses and hundreds of finance templates and cheat sheets.
+
+Start Free
+Written by Kyle Peterdy
+What is Greenwashing?
+Greenwashing is when the management team within an organization makes false, unsubstantiated, or outright misleading statements or claims about the sustainability of a product or a service, or even about business operations more broadly.
+
+Some greenwashing is unintentional, due to a lack of knowledge or understanding on the part of management, but sometimes greenwashing is also carried out intentionally through marketing efforts.
+
+Early definitions of Greenwashing revolved mostly around environmental claims. Today, with the evolution of Environmental, Social & Governance (ESG) as an analysis framework, the market’s understanding and interpretation of “sustainability” has expanded to include Social and Governance factors as well. As such, greenwashing activity may now include statements that extend beyond just environmental claims.
+
+
+Key Takeaways
+Greenwashing is when a management team makes incomplete, unsubstantiated, or outright false claims around the sustainability characteristics of a product, service, or a firm’s actual operations. 
+Greenwashing tends to occur when management teams wish to appear that they are engaged in rigorous ESG analysis, given the pressure to do so in today’s business environment.
+Management teams that wish to avoid the perception of greenwashing must present ESG disclosures using a reputable, global reporting framework like GRI, PRI, or SASB; these frameworks require that the presentation of ESG information be standardized and comparable.
+Why Do Management Teams Engage in Greenwashing?
+Collective global efforts toward greater sustainability have created the need for firms of all sizes to be more transparent about what they’re doing to manage environmental, social, and governance risks. As a result, stock exchanges, regulatory bodies, and other government agencies have mandated ESG-related reporting; this reporting is widely known as ESG disclosure. 
+
+Management teams (particularly of publicly-traded companies) must now disclose information about the firm’s environmental stewardship, its social impact, and its corporate governance practices. Those that do not are suffering serious reputational consequences in the market.
+
+Greenwashing may be the result of a management team that doesn’t understand the level of rigor required to prepare and present high quality ESG disclosure. Alternatively, some management teams may insist on including vague (or false) claims about sustainability efforts in their annual reporting in order to appear like they’re engaging in legitimate ESG analysis – this, too, is greenwashing.
+
+How to Avoid the Perception of Greenwashing
+As a management team looking to report on sustainability efforts, it’s important to follow ESG disclosure best practices. There are also some important things to consider in order to avoid the perception of greenwashing. 
+
+High quality ESG disclosure includes the use of a reputable ESG reporting framework, like the Global Reporting Initiative (GRI), the Principles for Responsible Investment (PRI), or the Sustainability Accounting Standards Board (SASB). 
+
+These frameworks require management teams to include considerable data and metrics, which are standardized and comparable. High quality ESG disclosure often focuses on three areas:
+
+1. Environmental Sustainability 
+This includes actual emissions, presented both in absolute terms and using a variety of relative metrics (like emissions per dollar of revenue, per employee, etc.). Negative externalities should be quantified, and the use and remediation of environmental resources should also be expressly presented.
+
+Greenwashing may include efforts to make general claims about improvements in a firm’s carbon footprint without any actual metrics to support the assertion(s).
+
+2. Social Impact
+Company action around the well-being of all stakeholders is critical. This includes employees, customers, communities, and supply chain partners.
+
+To avoid the perception of greenwashing, ESG disclosure should include specific metrics around Human Capital Management (like employee engagement and average turnover), as well as community support (like investments in skill development in the communities where the firm has operations or investments to improve labor standards within their supply chain).
+
+3. Corporate Governance
+Vague commentary around enterprise risk management initiatives is no longer sufficient to satisfy the analyst community, not to mention other stakeholders in the value chain.
+
+High quality corporate governance disclosure must include Diversity, Equity & Inclusion (DEI) metrics at the executive and the board levels, as well as considerable information around how executive compensation is being tied to ESG performance, as opposed to the traditional strategy of linking it solely to stock performance. Anything less is (best case) low quality ESG disclosure and (worst case) intentional greenwashing.
+
+Examples of Greenwashing
+In many ways, greenwashing is often little more than low quality ESG disclosure. However, there are also instances where management teams and marketing professionals go to great lengths to mislead the public about products, services, or operational practices. 
+
+Below are a few examples of greenwashing:
+
+1. Hidden trade-offs
+This is where a firm may emphasize that a product is produced (or packaged) using recycled materials, however, they neglect to mention that it was sourced from a supplier with a history or coercive labor practices or humanitarian issues.
+
+2. Baseless claims
+For instance, a company advertises a product as being “ethically sourced” but is unable to provide specific information about its procurement or about how it arrived at that conclusion.
+
+3. Presentation of partial truths
+Consider an oil & gas producer that presents its 5-year emissions trend as declining. Of course, that’s good, but it only captures that firm’s scope 1 emissions (those it produces directly); this disclosure neglects to address the eventual combustion of that fuel downstream by the eventual consumer (scope 3 emissions).

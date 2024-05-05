@@ -1,0 +1,47 @@
+Key IFRS standards compared to US GAAP and other accounting standards
+
+Over 1.8 million professionals use CFI to learn accounting, financial analysis, modeling and more. Start with a free account to explore 20+ always-free courses and hundreds of finance templates and cheat sheets.
+
+Start Free
+Written by CFI Team
+What are IFRS Standards?
+IFRS standards are International Financial Reporting Standards (IFRS) that consist of a set of accounting rules that determine how transactions and other accounting events are required to be reported in financial statements. They are designed to maintain credibility and transparency in the financial world, which enables investors and business operators to make informed financial decisions.
+
+IFRS standards are issued and maintained by the International Accounting Standards Board and were created to establish a common language so that financial statements can easily be interpreted from company to company and country to country.
+
+IFRS Standards
+
+IFRS are the standard in over 100 countries, including the EU and many parts of Asia and South America.  The United States, however, has not yet adopted them and the SEC is still deciding whether or not they should move toward them as the official standard of accounting.
+
+List of IFRS Standards
+Below is a list of IFRS standards from http://www.ifrs.org/issued-standards/list-of-standards/
+
+IFRS #	IFRS Standard
+1	First-time Adoption of International Financial Reporting Standards
+2	Share-based Payment
+3	Business Combinations
+4	Insurance Contracts
+5	Non-current Assets Held for Sale and Discontinued Operations
+6	Exploration for and Evaluation of Mineral Resources
+7	Financial Instruments: Disclosures
+8	Operating Segments
+9	Financial Instruments
+10	Consolidated Financial Statements
+11	Joint Arrangements
+12	Disclosure of Interests in Other Entities
+13	Fair Value Measurement
+14	Regulatory Deferral Accounts
+15	Revenue from Contracts with Customers
+16	Leases
+17	Insurance Contracts
+IFRS vs. US GAAP
+The largest difference between the US GAAP (Generally Accepted Accounting Principles) and IFRS is that IFRS is principle-based while GAAP is rule-based. Rule-based frameworks are more rigid and allow less room for interpretation, while a principle-based framework allows for more flexibility.
+
+There are pros and cons to both approaches, depending on how they are used.  For example, using a standard that fits within a “rule” but that clearly does not represent the principle behind the standard can be a downside of the GAAP.  While conversely, taking an overly liberal interpretation of standards is a potential drawback to the IFRS.
+
+Accounting Careers
+If you’re looking for a career in accounting, then you should explore our Career Map to compare the various roles in the accounting industry,
+
+Other helpful resources include our accounting interview guide and a huge database of technical articles.
+
+Check out our free accounting courses here.

@@ -1,0 +1,114 @@
+Betsy Atkins
+Contributor
+I’m a board vet writing about corporate governance & business trends
+Follow
+
+Jun 8, 2020,04:49pm EDT
+This article is more than 3 years old.
+
+
+We have been hearing about environmental, social and governance (ESG) in our boardrooms and in the corporate governance reports, webinars, press and blogs. I thought it would be helpful to share a brief history of ESG, where it started and what have been the many parts of the topic to try and bring some clarity. I share the research and learnings so we can demystify ESG and either begin, continue, or decide how our boards may want to address and respond to ESG.
+
+ESG issues were first mentioned in the 2006 United Nation’s Principles for Responsible Investment (PRI) report consisting of the Freshfield Report and “Who Cares Wins.” ESG criteria was, for the first time, required to be incorporated in the financial evaluations of companies. This effort was focused on further developing sustainable investments. At the time, 63 investment companies composed of asset owners, asset managers and service providers signed with $6.5 trillion in assets under management (AUM) incorporating ESG issues. As of June 2019, there are 2450 signatories representing over $80 trillion in AUM.
+
+Assets under management
+SOURCE: PRINCIPLES FOR RESPONSIBLE INVESTMENT
+PROMOTED
+
+
+The emphasis on ESG is increasingly growing as major institutional investors are making it clear they expect the companies they hold to commit strongly to ESG criteria.
+
+During the 2017 proxy season, State Street Global Advisors (SSGA) voted against the re-election of directors at 400 companies that SSGA said failed to make any significant effort to appoint women to their all-male boards. This came after the results of a global survey of 475 institutions that included private and public pension funds, endowments, foundations and official institutions. As reported by Business Wire, the survey found that 68 percent of respondents said that implementation of ESG criteria aided in improved returns, along with 77 percent of respondents that said they invested in ESG strategies due to its impact on a public company’s financial performance.
+
+Another example of this trend was the defiance of ExxonMobileXOM -0.3%s’ shareholders to the company in response to climate change. In May 2017, 62% of ExxonMobile shareholders went against management’s recommendations by voting to require the worlds largest oil and gas company to report on the impacts of climate change to its business (an increase of 38% over the previous year). This response followed the Paris Climate agreement.
+
+MORE FROMFORBES ADVISOR
+Best High-Yield Savings Accounts Of 2024
+ByKevin PayneContributor
+Best 5% Interest Savings Accounts of 2024
+ByCassidy HortonContributor
+Davos 2020
+
+The World Economic Forum (WEF) and the International Business Council (IBC), under the Chairmanship of Brian Moynihan (CEO of Bank of AmericaBAC -0.8%), alongside the Big Four accounting firms (Deloitte, PwC , KPMG, and Ernst & Young) are accelerating the ESG transformation through the establishment of a set of standardized measurements of 22 specific metrics to an organized framework for companies to report their results in a new “stakeholder capitalism” approach. The 120 large multinational firms in the IBC expressed a commitment to demonstrate to stakeholders their forward looking approach in establishing long-term value.
+
+
+Investing Digest: Know what's moving the financial markets and what smart money is buying with Forbes Investing Digest.
+
+Email address
+Sign Up
+By signing up, you agree to our Terms of Service, and you acknowledge our Privacy Statement. Forbes is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
+The difficulty is putting in place consistent and transparent ESG reporting for financial and non-financial metrics that are consistent within each industry sector. The new Big Four consensus metrics seek to create a systematic “market-driven” set of 22 metrics. The IBC will lead the way voluntarily adopting this new Big Four ESG metric system.
+
+The results of this challenge is the Davos Manifesto 2020: The Universal Purpose of a Company in the Fourth Industrial Revolution. This is a further outgrowth of the Business Roundtable published on August 19, 2019. The Davos Manifesto highlighted a set of 22 quantitative core metrics consisting of information that is already being reported on in exciting frameworks or information that can be easily obtained. These 22 metrics from the Davos 2020 focus on objectives that are within a company’s own capabilities. Additionally, there is another expanded and more advanced phase two aspirational future set of 34 metrics. These expanded metrics are less established and revolve around a wider value chain. Both the core 22 and expanded 34 metrics are structured to align with the UN’s 2030 Agenda for sustainable development. The metrics are centered around four key areas: principals of governance (led by Deloitte), planet (led by PwC), people (led by KPMG) and prosperity (led by Ernst & Young).
+
+Sustainable Development Goals
+SOURCE: UNITED NATIONS
+The inclusion of sustainable development goals (SDG) focused metrics is newly emerging as a consensus around building societal impact metrics. The four key pillars (principals of government, planet, people and prosperity) are based on and coincide with many elements of the SDGs. For instance, the metrics involving principles of governance is highlighted in responsible consumption and production (SDG #12), peace, just and strong institutions (SDG #16), and partnerships for the goals (SDG #17).
+
+The Big Four are actively working on the proposed 22 metrics with the intent to have a draft to WEF and IBC as a preview before the August IBC meeting. Directors and boards can expect a subset of the 22 core metrics to be emerging this calendar year.
+
+After studying the WEF report and distilling it down based on the 45-page document, I have created a preliminary dashboard from the 22 metrics in similar framework to the NIST scorecard. As boards think about how to operationalize ESG, perhaps this scorecard will be a useful starting point for board discussion in the upcoming meeting. The Big Four’s final version is targeted by the end of the year.
+
+WEF Framework
+SOURCE: BETSY ATKINS
+Varying frameworks for addressing ESG have emerged in recent years as ESG is now mainstream. Mike Wallace, a partner of the Environmental Resources Management noted that, “While it may feel confusing and overwhelming, it is actually a logical progression of our field’s evolution and thinking. New issues emerge, the breadth and depth of our impacts are better understood, and we all want to know a little bit more.” Amongst the many frameworks, GRI, CDP, SASB, TCFD, and WDI are the most widely used today as stated by GreenBiz.
+
+The Global Reporting Initiative (GRI) was established in 1997 to create an accountability framework for companies to display to their stakeholders their responsible environmental business practices. GRI began implementing the term ESG and the focus on these issues in 2009, a few years after the term ESG began to surface. Many investors, businesses, and governments use GRI’s ESG framework today in expressing impacts such as climate change, human rights, governance and social well-being.
+
+The Carbon Disclosure Project (CDP) began in 2000 aimed to create a global economic system that protects against climate change. The motivation of the CDP framework to transform capital markets by shifting businesses to prioritize environmental reporting and risk management. In 2002, CDP established its environmental disclosure program, and has since grown to be the platform for over 8,400 companies in 800 cities and 120 states and regions.
+
+The Sustainability Accounting Standards Board (SASB) began in 2011 to develop standards that display both sustainability and financial fundamentals. The creator of the framework, Jean Rogers, stated the goal for the framework was so “investors could compare performance on critical social and environmental issues, and capital could be directed to the most sustainable outcomes.” As of today, SASB focuses on financially material information that is more specifically defined per industry. This aspect of SASB sets it apart from the other frameworks.
+
+The Taskforce on Climate-related Financial Disclosures (TCFD) came about in December of 2015 with Michael Bloomberg as its chair in an effort to further consider climate in the global financial system. The TCFD allows companies a way to report their climate-related financial risks, consisting of physical, liability and transition risks, to stakeholders. As of February 2020, over 1,000 public and private companies consisting of $138.8 trillion AUM have demonstrated their support.
+
+Lastly, the Workforce Disclosure Initiative (WDI) was created in 2016 by the “responsible investment” nonprofit ShareAction in the UK. The framework, modeled after the CDP, collects data on the management 0f both direct employees and supply chain workers in an effort to provide institution investors with meaningful information. As of 2019, the WDI had 137 investor signatures and 118 companies using the framework.
+
+I have added a table to display just a few of the many ESG frameworks and rating agencies available today:
+
+Frameworks and Rating Agencies
+SOURCE: BETSY ATKINS
+Rating Agencies
+
+To serve the growing pool of ESG investors and the increasing demand for data, index providing rating agencies have created their own ratings to evaluate ESG factors. The four major rating agencies for ESG that dominate the current market included MSCI, Sustainalytics, RepRisk, and newly emerging ISS.
+
+MSCI began in 2010 and is one of the largest independent providers of ESG ratings in the world today. Their rating scale ranges from AAA to CCC with AAA being the best. MSCI is the ESG provider for over 6,000 global companies and over 400,000 equity and fixed-income securities.
+
+Sustainalytics, created in 2008, is the fusion of DSR from the Netherlands, Scores from Germany, and AIS from Spain. Their ratings are a 0-100 scale that incorporates sector and industry based comparisons. Over 7,000 companies across 42 sectors and is steadily emerging at an international level. Morningstar, as of July 2017, owns 40% ownership in the agency.
+
+RepRisk, started in 1998, screens news sources to provide reporting for more than 140,000 private and public companies around the world spanning 34 sectors. Similar to MSCI, RepRisk’s rating scale ranges from AAA to D.
+
+The last major rating agency, Institutional Shareholder Services (ISS) Environmental and Social QualityScore, is the newest of the four having launched in February of 2018. Their rating scale measures companies’ overall environment and social impacts along with further sub-issues and ranges from 0-10 with 10 being the highest possible score. As of 2018, the agency provides ratings for over 5,000 companies across 18 sectors.
+
+Interested Constituents
+
+ESG is continually becoming a greater factor in a company’s success in attracting, engaging and retaining employees correlating to the demographics of the current workforce. Millennials are now the major demographic representing 34% of today’s workforce, while generation Z consists of 21%. These demographic groups especially value the issues addressed by ESG.
+
+BlackRock, a visible and loud voice in the index fund space, is placing a greater emphasis on sustainable investing. CEO, Larry Fink, expressed that his investment firm is increasingly integrating ESG issues into the investment decisions. He stated, “A company’s ability to manage environmental, social and governance matters demonstrates the leadership and good governance that is so essential to sustainable growth.” From a global perspective, their goal as of January is for the firm to increase the number of ESG exchange-traded funds and ESG index funds to 150.
+
+BlackRock’s voting guidelines have also changed in light of the emergence of ESG issues. Their policy now reads, “For companies in sectors that are significantly exposed to climate-related risk, we expect the whole board to demonstrate fluency in how climate risk affects the business and how managements approaches assessing, adapting to, and mitigating that risk.” This shift in mentality highlights the growing necessity for boards to have more knowledge and understanding of the effects of their respective company and its industry relative to the ESG standards as Fink asks CEOs to “understand the societal impact of your business.”
+
+As reported by Morningstar, Fink has also announced that BlackRock will begin reporting proxy votes each quarter. Additionally, they said they will immediately disclose their votes and an explanation for certain high-profile votes. This is a step for BlackRock in trying to place their fund into a leadership position concerting proxy voting disclosure. The fund’s position is that they are not hesitant about voting against managements that they view as not having made enough or any progress on sustainability issues.
+
+Current Status
+
+On May 22, 2020, the US Securities and Exchange Commission (SEC)’s investment committee decided to create an ESG disclosure framework for consistent and comparable information without the use of a third party rating agency. The chair of the investment committee, Anne Sheehan, noted “the SEC is best-placed to set the framework for issuers to disclose material information upon which investors can rely to make investment and voting decisions.”
+
+The ambiguity that surrounds ESG ratings was the main motivator for the committees decision. Despite the large increase in sustainable exchange-traded funds (ETFs) from $5.5 billion in new fundings in 2018 to $20.6 billion in 2019, the importance of ESG ratings will vary respectively without a standard structure. According to MIT research’s in their Aggregate Confusion Project, “It is likely (about 5 to 10% of firms) that the firm that is in the top 5% for one rating agency belongs to the bottom 20% for the other.”
+
+This inconsistency amongst ratings has influenced the SEC to move forward in creating a standard framework. The noise and uncertainty in the sustainability market is harming the progress of resolving ESG issues. The SEC believes this will benefit both companies looking to acquire capital, and investors effectively allocating capital and exercising votes. The SEC’s efforts are at an early stage.
+
+Market Trends
+
+NASDAQ reviewed the 2019 MSCI ESG rankings for the S&P 500 that consisted of 493 of the 505 companies who received rankings. They calculated a variety of performance metrics valuation including price performance and volatility measures over the last five years evaluated as of the end of 2019. Using the seven potential MSCI ratings ranging from AAA to CCC, NASDAQ established their own categories for analysis. The established “leaders” to be graded AAA or AA, “average” as A, BBB, or BB, and “laggards” as B or CCC. Additionally, NASDAQ compared these three categories’ performances with that of the market.
+
+Their results found that over the last five years, companies considered as sustainability leaders under the MSCI framework exhibited both higher returns and less risk. Additionally, companies considered as sustainability laggards showed the opposite results. The median daily price return compared to the market for leaders was 6.3%, for average was 1.3%, and for laggards was -22.7%. These trends were also displayed through their overall risks measured by daily five year price variance compared to the market. Leaders exhibited 6.4% less risk, average companies showed 0.8% less risk, and laggards displayed 10.2% greater risk. The laggards also had a median daily price return of 4.8 bps which is almost 23% less than the S&P 500. The leaders showed far less volatility than the market having 152 bps daily volatility. The leaders were also the only group with positive return and a greater probability of having positive returns (skewness). This suggests there to be less occurrences of negative outlier events to companies graded AAA or AA by MSCI. As ESG criteria is becoming more mainstream, investors are not only looking at companies incorporating it as valuable investments, but also companies lacking ESG as disadvantageous and far riskier investments.
+
+This trend can be observed adversely through Equifax’s mishandling of its cyber breach in September of 2017. In fact, MSCI’s scrutiny of Equifax’s governance practices enabled it to raise a red flag about their cyber vulnerability well before the breach occurred and the company botched their response. If Equifax had placed a greater focus on their MSCI rating, they could have possibly been able to handle, and potentially prevent the cyber breach
+
+In Japan, there is the JPX-Nikkei 400 index, known as the “shame index” that identifies companies that don’t company with international disclosure and governance standards.
+
+NASDAQ further analyzed the connection between a company’s MSCI rank and their over- and under-performance. Leaders showed better performances with higher profits and lower interests rates, while laggards displayed under-performance in these aspects. They found that the 85 MSCI leaders in the S&P 500 showed 11% higher FY1 P/E relative to the market, opposed to 1.4% lower for average companies and 0.8% lower for laggards. On top of that, the leaders exhibited greater greater profit than the market (10.6%) relative to their earnings before interest and taxes (EBIT) compared to average companies (1.2%) and Laggards (-16.0%). By observing the companies returns on invested capital (ROIC), leaders displayed 22.3% greater capital efficiency while average companies and Laggards showed less (-5.5% and -12.8% respectively). Leaders also faced far lesser interest rates (-11.1%) than average companies (-1.3%) and laggards (4.3%). Leaders had 16.5% greater access to capital as well compared to -0.1% for average companies and -4.1% for Laggards. This coincides with previously stated data reflecting that ESG leaders are less risky investments.The dividend yield for Leaders was 10.3%, -0.7% for average companies, and -39.6% for Laggards. Lastly, Leaders showed much higher market cap ($31 billion) in comparison to the market ($24 billion) and Laggards ($22 billion). As shown through the MSCI data, companies labeled leaders by MSCI exhibited far greater returns with lesser interest rates, while laggards faced greater interest rates.
+
+Conclusion
+
+Ultimately, directors and CEOs need to think about ESG as part of the company’s overall strategy. This is a macro trend that is gaining momentum. The data shows that companies embracing ESG criteria are performing better and safer for all stakeholders, investors, employees, customers, and the community. The companies operationalizing/measuring and reporting on ESG may also get better access to sticky pools of capital that can fuel stronger company performance long term. As directors, we can all start by having a deep discussion at our next board meeting. I suggest that every board needs to build clarity and alignment with management on how it will address ESG for all stakeholders. My belief is that it is time to implement ESG programs now. There are many existing frameworks. We can ask management to begin measuring and reporting on their key industry metrics. This is a journey. The frameworks and answers are still evolving. Although the final global ESG measurement systems are not complete, that is not a reason to wait any longer. This is time now to lead the trend!
